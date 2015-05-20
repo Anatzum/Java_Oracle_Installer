@@ -12,7 +12,7 @@ This will work for both 32-bit and 64-bit installations
 
 
 
-First download the tarball from the www.oracle.com/technetwork/java/index.html
+First download the tarball from www.oracle.com/technetwork/java/javase/downloads/index.html
 
 Place this script inside the same location and the tarball.
 
